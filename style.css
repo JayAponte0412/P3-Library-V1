@@ -1,0 +1,20 @@
+*{
+    background-image: url('Image/janko-ferlic-sfL_QOnmy00-unsplash.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+};
+body{
+    line-height: 1.8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,h2,h3,h4,h5,h6{  
+    font-weight: 900;
+};
+
+nav{
+    text-decoration: none;
+    transition: all 0.4s ease;
+    font-weight: 900;
+
+}
